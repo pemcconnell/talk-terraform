@@ -3,6 +3,8 @@ terraform 101 - a practical example
 
 The slides for this presentation can be found [here](https://docs.google.com/presentation/d/11v8uGEm4YsSpX6TM5BkVHZr0xWUDH8q1xIoR_CJJ4NI/edit?usp=sharing).
 
+Footage of this presentation can be seen [here](https://www.youtube.com/watch?v=FvOHfsTmBfo).
+
 requirements
 ------------
 
